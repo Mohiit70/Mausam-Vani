@@ -28,4 +28,4 @@ export function QuickQuestions({ onSelect }: QuickQuestionsProps) {
       </div>
     </div>
   );
-}s
+}
