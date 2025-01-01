@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { CityCard } from './CityCard';
 import { SearchBar } from './SearchBar';
 import { Navbar } from './Navbar';

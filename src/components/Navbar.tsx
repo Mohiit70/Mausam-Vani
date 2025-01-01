@@ -1,4 +1,3 @@
-import React from 'react';
 import { Cloud, ArrowLeft } from 'lucide-react';
 
 interface NavbarProps {

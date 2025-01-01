@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Send, Bot, MessageSquare } from 'lucide-react';
+import { Send, Bot,} from 'lucide-react';
 import { QuickQuestions } from './QuickQuestions';
 import { getChatResponse } from '../services/chatService';
 import type { ChatMessage } from '../types/weather';
